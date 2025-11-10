@@ -1,0 +1,39 @@
+# Node-related
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+bun.lockb
+
+# Git
+.git
+.gitignore
+
+# Environment files
+.env
+.env*.local
+
+# OS + editor crap
+.DS_Store
+*.swp
+*.swo
+*.tmp
+*.bak
+*.log
+.vscode/
+.idea/
+*.iml
+
+# Build output
+out/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Docker stuff
+Dockerfile
+.dockerignore
+
+# Misc
+README.md
+LICENSE
